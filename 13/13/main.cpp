@@ -3,7 +3,6 @@
 #include <cstring>
 
 int main() {
-
 	char a[8] = "XIX";
 	int b = 0;
 
